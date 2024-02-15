@@ -1,0 +1,38 @@
+.main{
+    margin-top: 100px;
+}
+.g{
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+    line-height: 35px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+.j{
+    display: block;
+    width: 300px; 
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    size: 40px;
+}
+.e{
+    margin-top: 30px;
+    display: block;
+    background: #f2f2f4;
+    border: none;
+    border-radius: 4px;
+    padding: 10px;
+    margin-left: 20px;
+}
+.d{
+    display: flex;
+    justify-content: center;
+}
+    
