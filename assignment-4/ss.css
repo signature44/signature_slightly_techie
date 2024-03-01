@@ -1,0 +1,44 @@
+.main{
+    display: flex;
+    justify-content: space-between;
+    border: 3px solid #283618;
+    
+}
+
+body{
+    border: 2px solid #023047;
+    background: #e4c1f9;
+}
+
+.register{
+}
+
+#af{
+    font-weight: bold;
+    font-size: large;
+    font-family:Helvetica ;
+}
+
+.about{
+    text-align: center;
+    margin-top: 50px;
+    font-family: Georgia;
+}
+#passage{
+    text-align: center;
+    margin:0 50px 50px 50px;
+    border: 1px solid #669bbc;
+    font-family: Georgia;
+}
+#team{
+    text-align: center;
+    font-weight: bold;
+    font-family:Helvetica ;
+}
+#image{
+    width: 80px;
+    border: 1px solid #e9edc9;
+}
+.james{
+    display:block;
+}

@@ -1,0 +1,38 @@
+.main{
+    border: 2px solid #283618;
+    width: 250px;
+    margin: 80px auto;
+    background: #edede9;
+}
+
+#l{
+    justify-content: start;
+    font-weight: bold;
+    border-bottom: 2px solid #283618;
+}
+
+#li{
+margin-left: 50px;
+font-family:Helvetica ;
+}
+.body{
+    padding: 0 0 0 38px;
+}
+#em{
+    width: 150px;
+    display: block;
+}
+
+#pw{
+    width: 150px;
+    display: block;
+}
+
+#ca{
+    width:157px;
+    margin-top: 5px;
+}
+
+#su{
+    font-size: 13px
+}

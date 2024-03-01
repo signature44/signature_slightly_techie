@@ -1,0 +1,61 @@
+.main{
+    border: 2px solid #283618;
+    width: 350px;
+    margin: 80px auto;
+    background: #edf2f4;
+}
+
+.in{
+    text-align: start;
+    font-weight: bold;
+}
+
+.body{
+    margin-top: 30px;
+   padding: 0 0 0 70px;
+    display: block;
+    line-height: 30px;
+}
+
+#sp{
+    font-family:Helvetica ;
+}
+
+#fn{
+    width: 150px;
+    display: block;
+
+}
+
+#Ln{
+    width: 150px;
+    display: block;
+}
+
+#em{
+    width: 150px;
+    display: block;
+}
+
+.ell{
+    width: 150px;
+    display: block;
+}
+
+.stk{
+    width: 150px;
+    display: block;
+}
+
+#pw{
+    width: 150px;
+    display: block;
+}
+
+#cp{
+    width: 150px;
+    display: block;
+}
+#ca{
+    width: 158px;
+}
